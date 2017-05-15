@@ -1,0 +1,8 @@
+.pagination li{
+	display;inline-block;
+	padding:5px;
+}
+
+.active{
+	text-decoration:underline
+}
