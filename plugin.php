@@ -6,7 +6,7 @@ Description: A WordPress Multisite plugin that allows you easily add a user to a
 Version:     0.0.1
 Author:      Christopher Spires
 Author URI:  https://fourtwoweb.com
-License:     GPLv3
+License:     GPLv2
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: fourtwo
 Domain Path: /languages
